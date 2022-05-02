@@ -1,0 +1,14 @@
+<template>
+  <h1>La mia prima app con Vue CLI! ciao</h1>
+</template>
+
+<script>
+export default {
+  name: 'TitleProject'
+}
+</script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped lang="scss">
+
+</style>
